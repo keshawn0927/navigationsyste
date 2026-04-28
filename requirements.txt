@@ -1,0 +1,3 @@
+folium
+googlemaps
+python-dotenv
